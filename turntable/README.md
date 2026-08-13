@@ -9,7 +9,7 @@ spectrum, then returns the table to its starting position.
 
 No prior knowledge of the turntable is needed — follow this file top to bottom.
 
-> Part of the [Shell-Thurst4](../README.md) instrument-control repository.
+> Part of the [Shell-Thrust4](../README.md) instrument-control repository.
 > Every command below is run from **inside this `turntable/` folder**:
 >
 > ```bash

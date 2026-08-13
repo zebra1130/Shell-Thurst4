@@ -1,4 +1,4 @@
-# Shell-Thurst4 — instrument control
+# Shell-Thrust4 — instrument control
 
 Python code for driving the lab instruments used in our experiments, one
 folder per device. Each folder is self-contained: its own README, its own
@@ -19,11 +19,11 @@ Clone the repository, then follow the README inside the folder for the device
 you are using:
 
 ```bash
-git clone https://github.com/zebra1130/Shell-Thurst4.git
+git clone https://github.com/zebra1130/Shell-Thrust4.git
 ```
 
 ```bash
-cd Shell-Thurst4/turntable
+cd Shell-Thrust4/turntable
 ```
 
 Python 3.8 or newer is required. Each device folder lists its own
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## Repository layout
 
 ```
-Shell-Thurst4/
+Shell-Thrust4/
 ├── README.md          you are here — index of devices
 ├── LICENSE            MIT, applies to the whole repository
 ├── .gitignore
