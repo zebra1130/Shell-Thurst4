@@ -1,4 +1,4 @@
-# Shell-Thrust4 — instrument control
+# Shell-Thrust4
 
 Python code for driving the lab instruments used in our experiments, one
 folder per device. Each folder is self-contained: its own README, its own
